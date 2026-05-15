@@ -51,7 +51,7 @@ Tonalli was created during the **Swift Changemakers Hackathon 2026**, Energy Cha
 | | |
 |---|---|
 | 🗓️ Event | Swift Changemakers Hackathon 2026 |
-| ⚡ Challenge | Energy Reto |
+| ⚡ Challenge | Energy Challenge |
 | 📅 Date | May 4–6, 2026 |
 | ⏱️ Duration | 24 hours |
 
