@@ -83,6 +83,8 @@ Tonalli was created during the **Swift Changemakers Hackathon 2026**, Energy Cha
 | 🌙 Dark Mode | Full dark mode support |
 | 📱 Widgets | Quick access from your home screen |
 
+
+
 ---
 
 ## 📄 License
